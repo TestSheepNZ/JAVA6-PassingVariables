@@ -10,7 +10,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class passVariables {
+public class PassVariables {
 
 	private static void printMe(int num, String str)
 	{
